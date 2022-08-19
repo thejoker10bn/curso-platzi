@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-platzi/static/css/main.a0c18bfb.css",
+    "main.js": "/curso-platzi/static/js/main.f8b92fef.js",
+    "index.html": "/curso-platzi/index.html",
+    "main.a0c18bfb.css.map": "/curso-platzi/static/css/main.a0c18bfb.css.map",
+    "main.f8b92fef.js.map": "/curso-platzi/static/js/main.f8b92fef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c18bfb.css",
+    "static/js/main.f8b92fef.js"
+  ]
+}
